@@ -1,2 +1,2 @@
 # Random-dice-thrower
-My first program written by my self as an school application in C#
+My first program written by myself as an school entrance exam in C#
